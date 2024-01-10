@@ -1,0 +1,16 @@
+Projeto Técnico em Mecatrônica Senai 2023
+
+Este Projeto foi desenvolvido para o Trabalho de Conclusão de Curso no último semestre do curso Técnico em Mecatrônica no Senai.
+O projeto simula uma etapa de uma linha de produção, quando uma peça é colocada no magazine, automaticamente ele reconhece a presença e identifica
+sua cor, em seguida o braço robótico pega a peça e coloca na esteira, antes de chegar ao fim da esteira, a bandeja que se encontra no final, gira 180 graus
+dependendo da cor da peça para separa-la.
+
+Principais componentes: 
+-Arduino Uno;
+-Sensor Infravermelho; 
+-Sensor TCS230 (cor); 
+-Servos Motores (braço robótico e bandeja); 
+-Braço Robótico;
+
+
+Video do demonstrativo: https://www.youtube.com/watch?v=BcfeFcl7i60
